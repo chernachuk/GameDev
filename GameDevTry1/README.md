@@ -1,9 +1,9 @@
 # GameDev
 
-**Team code/name**
+**Team code/name**   
 Big Rolls
 
-**Team members list**
+**Team members list**  
 Перший учасник, Сильчук Роман, ІС-91
 Другий учасникб, Черначук Ілья, ІС-91
 
